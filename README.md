@@ -4,6 +4,11 @@
 <h2>Contacts:</h2>
 <p align='center'>
 <a href="https://www.linkedin.com/in/arkadii-python-developer/"><img height="30" src="https://github.com/pranjay-poddar/pranjay-poddar/blob/master/icons/linkedin.png?raw=true"></a>
+<a href="https://www.datacamp.com/portfolio/elowrebel2"><img height="30" src="https://github.com/ArkadiiOlshevskyi/ArkadiiOlshevskyi/blob/main/icons/datacamp_logo.jpg"></a>
+<a href="https://www.codewars.com/users/ArkadiiOlshevskyi"><img height="30" src="https://github.com/ArkadiiOlshevskyi/ArkadiiOlshevskyi/blob/main/icons/codewars_logo.png"></a>
+
+ 
+ 
 </p>
 
 <h2>About Me:</h2>
