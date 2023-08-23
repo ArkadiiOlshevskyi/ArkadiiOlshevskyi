@@ -1,5 +1,11 @@
 - 👋 Hi, I’m @ArkadiiOlshevskyi
-- 👀 I’m interested in Python backend and Fullstack Development | Data Science
+
+<p align='center'>
+  <a href="https://github.com/ArkadiiOlshevskyi/ArkadiiOlshevskyi/blob/main/icons/elowr_datascientinsts_loading_array_of_databricks_by_hands_25732c1f-b408-4ab8-bb64-674b167210d31%201.png?raw=true">
+    <img src="https://github.com/ArkadiiOlshevskyi/ArkadiiOlshevskyi/blob/main/icons/elowr_datascientinsts_loading_array_of_databricks_by_hands_25732c1f-b408-4ab8-bb64-674b167210d31%201.png?raw=true" width="1200" alt="hover text">
+  </a>
+</p>
+
 
 <h2>Contacts:</h2>
 <p align='center'>
