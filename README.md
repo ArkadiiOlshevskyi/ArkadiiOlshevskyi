@@ -18,7 +18,7 @@
 </p>
 
 <h2>About Me:</h2>
-<p>Experienced Python developer in data analysis and computer vision, with a background in interior design and architecture. 
+<p>Experienced Python data engineer and analyst, with a background in construction and architecture. 
   Proficient in data processing and analysis. 
   Committed to inclusivity and diversity, creating a fair and collaborative workplace. 
   Enthusiastic about computer vision, image processing, and innovation in the field of architecture and interior design.</p>
